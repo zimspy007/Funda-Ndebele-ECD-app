@@ -1,0 +1,476 @@
+{
+  "project_info": {
+    "project_number": "635869040614",
+    "firebase_url": "https://the-road-zwe.firebaseio.com",
+    "project_id": "the-road-zwe",
+    "storage_bucket": "the-road-zwe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:2b07f3b1f2edcb24",
+        "android_client_info": {
+          "package_name": "agexdev.theroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:9e7a1542c0ef44ee",
+        "android_client_info": {
+          "package_name": "agexdev.accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:9dfbff3d4f31dfbc",
+        "android_client_info": {
+          "package_name": "agexdev.math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:4edfad64090e7aba",
+        "android_client_info": {
+          "package_name": "agexdev.theroadzambia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:4180cbffed181e3d",
+        "android_client_info": {
+          "package_name": "agexdev.zimgrseven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:71b8c19452feb01c",
+        "android_client_info": {
+          "package_name": "agexdev.zimjunior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:a407e17b9ce61137",
+        "android_client_info": {
+          "package_name": "agexdev.intersci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:893fc1fce1e7606f",
+        "android_client_info": {
+          "package_name": "agexdev.interscirev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:100e3955cd548e20",
+        "android_client_info": {
+          "package_name": "agexdev.commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:a392b5a91f0c9331",
+        "android_client_info": {
+          "package_name": "agexdev.chemistry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:f0c2940e542e1b7e",
+        "android_client_info": {
+          "package_name": "agexdev.physics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:96c6bec5ebfd25df",
+        "android_client_info": {
+          "package_name": "agexdev.abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:d7f970b130077dbb",
+        "android_client_info": {
+          "package_name": "agexdev.a123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:ffe113bc93cb0a99",
+        "android_client_info": {
+          "package_name": "agexdev.animalsounds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635869040614:android:16161ba096d8ee89",
+        "android_client_info": {
+          "package_name": "agexdev.funda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635869040614-had980g5213r0875kk9gl5fu21rh8lb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wQqJZZjgpFfJkpY0htntjjPca_fMowU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

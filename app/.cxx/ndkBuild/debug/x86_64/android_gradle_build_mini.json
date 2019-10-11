@@ -1,0 +1,90 @@
+{
+  "buildFiles": [
+    "/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk",
+    "/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib clean"
+  ],
+  "buildTargetsCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "main-debug-x86_64": {
+      "artifactName": "main",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libmain.so",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libmain.so"
+    },
+    "timidity-debug-x86_64": {
+      "artifactName": "timidity",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libtimidity.so",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libtimidity.so"
+    },
+    "sdl_ttf-debug-x86_64": {
+      "artifactName": "sdl_ttf",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libsdl_ttf.so",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libsdl_ttf.so"
+    },
+    "tremor-debug-x86_64": {
+      "artifactName": "tremor",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libtremor.a",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libtremor.a"
+    },
+    "mikmod-debug-x86_64": {
+      "artifactName": "mikmod",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libmikmod.a",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libmikmod.a"
+    },
+    "ogg-debug-x86_64": {
+      "artifactName": "ogg",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libogg.a",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libogg.a"
+    },
+    "sdl_mixer-debug-x86_64": {
+      "artifactName": "sdl_mixer",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libsdl_mixer.so",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libsdl_mixer.so"
+    },
+    "freetype-debug-x86_64": {
+      "artifactName": "freetype",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libfreetype.a",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libfreetype.a"
+    },
+    "mad-debug-x86_64": {
+      "artifactName": "mad",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libmad.so",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libmad.so"
+    },
+    "vorbis-debug-x86_64": {
+      "artifactName": "vorbis",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libvorbis.a",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libvorbis.a"
+    },
+    "SDL2-debug-x86_64": {
+      "artifactName": "SDL2",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libSDL2.so",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libSDL2.so"
+    },
+    "flac-debug-x86_64": {
+      "artifactName": "flac",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libflac.a",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libflac.a"
+    },
+    "SDL2_image-debug-x86_64": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "/dev-tools/android-ndk-r10e/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib /ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libSDL2_image.so",
+      "abi": "x86_64",
+      "output": "/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libSDL2_image.so"
+    }
+  }
+}

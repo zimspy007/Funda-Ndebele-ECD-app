@@ -1,0 +1,20 @@
+Executable : /dev-tools/android-ndk-r10e/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Android.mk
+NDK_APPLICATION_MK=/ageDev/proj/Education/ECD/funda/Funda/app/src/main/jni/Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-16
+NDK_OUT=/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/ageDev/proj/Education/ECD/funda/Funda/app/build/intermediates/ndkBuild/debug/lib
+SDL2
+SDL2_image
+mad
+main
+sdl_mixer
+sdl_ttf
+timidity
+jvmArgs : 
+
